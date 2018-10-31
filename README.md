@@ -1,7 +1,11 @@
 # EncryptionConfigHelp
+
 安全密钥配置文件
+
 1.第一步安装help组件
+
 composer require hxsd-z/help @dev
+
 2.使用方法
 
 /**
